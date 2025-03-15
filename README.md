@@ -1,8 +1,4 @@
-# Fortuna
-FBLA Finance App - Coding and Programming 2025
-![1](https://github.com/aarishpatelll/EditREADME/assets/118705076/f7c11abe-700a-4efa-b206-fa2c29af17e1)
 
-# GPANow README 
 #### The main purpose of GPANow is to provide students, parents and teachers with a simple and convenient way to stay calculate their unweighted and weighted GPA according to their school's standards!
 
 ## Table of Contents 📄
