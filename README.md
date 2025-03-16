@@ -1,5 +1,5 @@
 
-#### The main purpose of GPANow is to provide students, parents and teachers with a simple and convenient way to stay calculate their unweighted and weighted GPA according to their school's standards!
+
 
 ## Table of Contents 📄
 
