@@ -130,7 +130,7 @@ Android Studio - https://developer.android.com/studio
 - [Monday.com](https://monday.com/): 
 
 ## Interactive Help Menu 👥
-We value your feedback and are committed to continuously improving the SchoolMate application so please access our interactive help menu within the application to submit specific feedback of improvements or possible changes for improving user experience. 
+We value your feedback and are committed to continuously improving the Fortuna application so please access our interactive help menu within the application to submit specific feedback of improvements or possible changes for improving user experience. 
 
 ## License ©️ 
 
